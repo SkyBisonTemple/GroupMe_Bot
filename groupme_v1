@@ -1,0 +1,4 @@
+token = OgesFHEudhL7SZX5EdDvDgo7j2q5DmJNLBplqGnM
+
+from groupy.client import Client
+client = Client.from_token(token)
